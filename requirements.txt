@@ -1,0 +1,27 @@
+# ── Core AI / Orchestration ─────────────────────────────────────────
+langchain
+langchain-community
+langchain-ollama
+langgraph
+
+# ── Speech ──────────────────────────────────────────────────────────
+faster-whisper
+edge-tts
+pyaudio
+
+# ── Audio Ducking ────────────────────────────────────────────────────
+pycaw
+comtypes
+
+# ── RAG / Knowledge ─────────────────────────────────────────────────
+chromadb
+sentence-transformers
+docling
+pymupdf
+python-docx
+
+# ── Web / Tools ─────────────────────────────────────────────────────
+duckduckgo-search
+
+# ── Utilities ────────────────────────────────────────────────────────
+# torch is already available via gpu_test.py environment
