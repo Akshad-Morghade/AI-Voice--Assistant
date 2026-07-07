@@ -1,4 +1,4 @@
-# 🎙️ Action Assistant (Desktop AI Assistant)
+# 🎙️ Action Assistant (Desktop AI Voice Assistant)
 
 A powerful, high-performance desktop voice assistant for Windows. It combines local LLM reasoning (via Ollama and LangGraph) with real-time speech processing (Faster-Whisper and Edge-TTS), Windows system integration (PyCaw audio ducking, app launcher), and smart safety guardrails.
 
